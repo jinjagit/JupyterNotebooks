@@ -1,2 +1,2 @@
 matplotlib==2.1
-pandas
+pandas==0.22.0
